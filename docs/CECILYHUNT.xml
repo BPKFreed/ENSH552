@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>CICELY HUNT; OR, THE LAME GIRL.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p><emph>SEOND EDITION.</emph><lb/>
+               LONDON: NATHANIEL COOKE,<lb/>
+            MILFORD HOUSE, STRAND.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>What a holy and beautiful thing is a mother's love!</p>
+         <p>Every morning, about eight o'clock, I have noticed, limping past my window to school, a little lame girl. A woman goes with her; supporting her gently by the arm and carrying her satchel of books.</p>
+         <p>The girl is very poorly clad. Sometimes her dress will be patched with two or three different colors; but it is always very clean; and I have observed that her stockings, though coarse, are always whole, and that her shoes are neatly tied up. The woman who goes with her looks tidy, too; though she wears a rusty black bonnet, of an old-fashioned make, and a faded shawl.</p>
+         <p>Cicely's little school-mates bound past her; skipping, hopping, jumping and running, as if they could not exercise their legs enough. The lame girl looks at them, smiles a sad, quiet smile, and looks up tearfully in her mother's face. The mother answers back with a look so full of love, and lays her hand upon her child's arm, as much as to say, "I love you all the more, because you are a poor, little helpless cripple."</p>
+         <p>And so they travel over the icy pavements to school; (stepping very carefully, for it would be a sad thing if Cicely should slip and fall;) until, at last, they reach the school house.</p>
+         <p>What a blessing are free schools! What a difference it makes in the life of that poor girl, to be able to read! How many weary hours of pain will a nice book beguile! And, beside, if one has not a cent in the world, if one has a good education, it is worth as much as money in the bank,—and more, too, because banks often turn out great humbugs, and then people lose all the money they have placed in them.</p>
+         <p>Cicely was not always poor. She can remember (just as you can a dream, when you first rub open your eyes in the morning) a great big house with richly carpeted halls, and massive chandeliers, and rich sofas and curtains, and gilded mirrors, and silver vessels, and black servants.</p>
+         <p>She remembers that her father carried a gold-headed cane, that he used to let her play horse with; and that he used to sit a long while at the table with gentlemen, drinking wine and eating fruit after dinner; and that often, he would ring for the nurse to bring her in, to show her to the gentlemen when her curls had been nicely smoothed and her little embroidered frock put on; and that then he would stand her up on the table and make her sing a little song, and that the gentlemen would clap their hands and laugh, and grow very merry about it.</p>
+         <p>Then she remembers that one day there was a great running to and fro in the house; and she saw her father lifted from a carriage in the arms of two gentlemen, and that blood was flowing from his side; and then her nurse caught her up, and carried her into the nursery, and she didn't go down stairs or see her papa again for many days; and she remembers that one day, getting tired waiting for him to come up and see her, she crept down by herself to his room, and found him lying on the bed, with his hands crossed over his breast, and only a linen sheet thrown over him, though it was very cold weather; and she said, "Papa?"—but he didn't answer; and she got a chair and climbed up in it to put her hand on his face, to wake him, but he was as cold as the marble image in the hall; and then her nurse called, "Cicely!—Cicely!" and seemed frightened, when she found her there; but wouldn't tell her why her papa laid there so still, or why he wouldn't speak to his little girl.</p>
+         <p>And then she remembers going away from the big house, and bidding good-bye to her black nurse; and ever since that they had lived in poor places, and people spoke harshly to them; and though her mamma never answered them back, she sighed heavily, and sometimes leaned her head on her hand and wept.</p>
+         <p>And one night it snowed in on the bed, and Cicely caught cold and had a fever, which left her with the dreadful lameness that I told you about; and then Cicely's mother groaned because she had no money; for she thought some of the great doctors, if they were well paid for it, might think it worth their while to try and cure Cicely.</p>
+         <p>Cicely's limb was less painful now than it had been for two years, although it was quite useless; but her mother, as I told you, helped her to limp to school. Cicely kept hoping it would get quite well, and she wanted to learn as fast and as much as she could; because she thought if she got all the medals, the Committee might say, "Cicely, we must have you for a teacher here, some day."</p>
+         <p>Yes; why not? Stranger things than that have happened; and then, perhaps, she could earn enough to (and here Cicely had to stop to think, because there were so many things they wanted,)—earn enough to buy a pair of warm blankets for their bed; and enough to have a cup of tea Sunday nights; and enough to keep a fire and a light through the long winter evenings, and not have to go to bed because they were so cold, and because candles were so dear.</p>
+         <p>Yes; Cicely was looking forward to all that, when she limped along to school. She thought it would be so delightful to empty her purse in her kind mother's lap, and say: "Dear mother, you needn't work any more. I will support you, now."</p>
+         <p>Oh, what a nice thing hope is! Sometimes, to be sure, she leads us a long dance for nothing; but I am very certain that were it not for hope, we shouldn't be good for much. Many a poor groaner has she clapped on the back, and made him leap to his feet and set his teeth together, and spring over obstacles as if he had on "seven league boots." She is a little coquettish, but I like her. She has helped me out of many a hobble.</p>
+         <p>Well, as the great speakers say, this is a digression. Do you know what that is? It is leaving off what you are about, to dance off to something else—just as I did up there about hope. Now I'm going on!</p>
+         <p>One day the committee came to Cicely's school, to hear the scholars recite; and Cicely stood up in her patched gown as straight as she could, and recited her lessons. </p>
+         <p>One of the gentlemen who came in with the committee asked, "Who is that young girl who said her lessons so well?"</p>
+         <p>"Cicely Hunt?" he repeated, after the teacher,—"Cicely Hunt! She was not lame; and then—why—no—it can't be: the thing is quite impossible," and he leaned back in his chair, and looked at Cicely.</p>
+         <p>After school was over he said to her, "Do you sing, Cicely?"</p>
+         <p>"Not now," said Cicely, blushing. "I used to sing, a long while ago, when I was little."</p>
+         <p>"When, Cicely?"</p>
+         <p>"I sang to—to—my papa," said Cicely—tears springing to her eyes. "I used to sing, 'Blue eyed Mary,' for the gentlemen who dined with papa."</p>
+         <p>Then the gentleman (pretending to look out the window) wiped his eyes, and turning to the teacher, they whispered a long while together, now and then looking at Cicely.</p>
+         <p>That evening, when Cicely and her mother were warming their fingers over a fire of shavings, somebody knocked at the door.</p>
+         <p>Cicely blushed, when she saw the same gentleman she had seen at the school coming in, and looked anxiously about the room.</p>
+         <p>But Mr. Raymond was not looking at the room. I doubt if he saw anything, his eyes were so full of tears; but he held Cicely's mother by the hand several minutes, without speaking, and led her back to the chair with as much deference as if she had been a Duchess; and then Cicely found out, as they talked, that he was one of her father's old friends, and that, as sometimes happens, even between friends, they had a quarrel, and that then they were both mistaken enough to think that the most gentlemanly way to settle it, was to fight a duel; and that Mr. Raymond wounded her father, and had to go away as fast as possible, because there was so much noise about it, and that he had been very unhappy ever since, and would have given all he had to have brought him to life again, and that when he returned to his native city he had searched everywhere for Mrs. Hunt and Cicely, without finding them.</p>
+         <p>Well, now he wanted to support Cicely and her mother, but Mrs. Hunt did not like that. She forgave him the sorrow he had brought upon her because he had suffered so much; but she did not wish to be supported by him. However, she allowed him to find her a better place to live in, and get her some scholars to teach, who paid her high prices, and by and by Cicely helped her, and so they supported themselves; which is a far pleasanter way of living than to be dependent.</p>
+         <p>Cicely was never entirely cured of her lameness; but a physician made her much more comfortable; so she could walk by herself, with the help of a crutch; and Mrs. Hunt's last days, after all, were her best days; for, we should never know, my dear little pets, how brightly the sun shines, if it were never clouded. </p>
+      <figure>
+         <graphic url="../img/CHfigone.pdf"></graphic>
+         <head>Page 126 of <emph>Little Ferns for Fanny's Little Friends.</emph></head>
+      </figure>
+      <figure>
+         <graphic url="../img/CHfigtwo.pdf"></graphic>
+         <head>Page 127 of <emph>Little Ferns for Fanny's Little Friends.</emph></head>
+      </figure>
+      <figure>
+         <graphic url="../img/CHfigthree.pdf"></graphic>
+         <head>Page 128 of <emph>Little Ferns for Fanny's Little Friends.</emph></head>
+      </figure>
+      <figure>
+         <graphic url="../img/CHfigfour.pdf"></graphic>
+         <head>Page 129 of <emph>Little Ferns for Fanny's Little Friends.</emph></head>
+      </figure>
+         <figure>
+            <graphic url="../img/CHfigfive.pdf"></graphic>
+            <head>Page 130 of <emph>Little Ferns for Fanny's Little Friends.</emph></head>
+         </figure>
+      </body>
+  </text>
+</TEI>
